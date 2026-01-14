@@ -1,0 +1,15 @@
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.sourcelink.json
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\bin\Debug\net9.0\backend.exe
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\bin\Debug\net9.0\backend.deps.json
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\bin\Debug\net9.0\backend.dll
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\bin\Debug\net9.0\backend.pdb
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.dll
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\refint\backend.dll
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.pdb
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\Users\Макс\Desktop\For Frame\Lab1_ISPRO_Lepilkin\backend\obj\Debug\net9.0\ref\backend.dll
